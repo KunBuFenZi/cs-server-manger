@@ -31,4 +31,5 @@ jobs:
         name: electron-build
         path: |
           dist/
+          dist-electron/
           release/
